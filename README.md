@@ -3,7 +3,7 @@
 - CSS by Tachyons
 
 ```sh
-npx degit freshteapot/svelte-tachyons-template support
+npx degit freshteapot/svelte-tachyons-template svelte-app
 ```
 
 ```sh
